@@ -1,4 +1,4 @@
-# Phone_numbers
+# GET Phone numbers
 Get Valid Working Phone numbers to any country in the world from telecomsxchange backend via API.
 
 Getting valid test numbers or cdrs to dial is a time consuming task that many of us waste time on in the Telecom industry specially Network Operation Team in VoIP companies or wholesale departments as well as call centers that are trying to find good numbers to dial, TelecomsXChange makes it easy to retrieve numbers via a single API call and a JSON response.
