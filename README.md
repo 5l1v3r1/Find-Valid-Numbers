@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/26701933/54167718-c5161f80-4473-11e9-82cc-f6ff64227d8e.png)
 
 
-# GET Valid Phone numbers
+# Find Valod Phone numbers
 Get Valid Working Phone numbers to any country in the world using TCXC API. 
 
 Live Demo: https://tools.telecomsxchange.com
